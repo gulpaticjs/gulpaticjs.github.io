@@ -1,0 +1,44 @@
+{
+  "name": "dynamics.js",
+  "description": "Javascript library to create physics-related animations",
+  "version": "1.0.0",
+  "main": "lib/dynamics.js",
+  "moduleType": [
+    "node",
+    "amd",
+    "globals"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "animation",
+    "javascript",
+    "requestAnimationFrame",
+    "spring",
+    "physic"
+  ],
+  "authors": [
+    "Michael Villar <me@michaelvillar.com> (http://twitter.com/michaelvillar)"
+  ],
+  "homepage": "http://dynamicsjs.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/michaelvillar/dynamics.js"
+  },
+  "devDependencies": {
+    "coffee-script": "1.7.1",
+    "uglify-js": "2.4.14",
+    "jsdom": "3.x.x",
+    "mocha-jsdom": "0.4.0",
+    "chai": "3.0.0",
+    "mocha": "2.2.5"
+  },
+  "_release": "1.0.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "1.0.0",
+    "commit": "b72ce4c6083cb6a5e906d4db38226cb3c59410df"
+  },
+  "_source": "https://github.com/michaelvillar/dynamics.js-bower.git",
+  "_target": "^1.0.0",
+  "_originalSource": "dynamics.js"
+}
